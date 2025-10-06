@@ -1,0 +1,25 @@
+
+
+body {
+  background-color: #dcd4c5; 
+  /*Below two lines center all content  on the page */
+  width: 700px;
+  margin: 0 auto;
+}
+
+img {
+  display: block;
+}
+
+#image {
+  max-width: 100%;
+}
+
+#year {
+  font-weight: bold;
+}
+
+#timeline {
+    width: 700px;
+    margin: 0 auto;
+}
